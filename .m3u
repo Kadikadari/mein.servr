@@ -67,3 +67,15 @@ https://shoofmax.b-cdn.net/hawaziq/ep32/720p/index.m3u8
 https://shoofmax.b-cdn.net/hawaziq/ep33/720p/index.m3u8
 #EXTINF:-1 type="stream" tvg-logo="https://www2.0zz0.com/2025/03/07/21/892241339.jpg" channelId="-1" group-title="مسلسل حوازيق",34الاخيرة
 https://shoofmax.b-cdn.net/hawaziq/ep34/720p/index.m3u8
+EXTINF:-1 tvg-id="" tvg-name="Black Mirror S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9w27Lgeq8KVxhz4ysygT6ranxf1.jpg" group-title="All Series",Black Mirror S01 E01
+http://1tv41.icu:8080/series/19133176/19133176/190320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Mirror S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c62HKSbeTRkatK223O3m58CmmPd.jpg" group-title="All Series",Black Mirror S01 E02
+http://1tv41.icu:8080/series/19133176/19133176/190321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Mirror S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhZmmQ6HSIYCo4Rxe6pmHMvkJE6.jpg" group-title="All Series",Black Mirror S01 E03
+http://1tv41.icu:8080/series/19133176/19133176/190322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Mirror S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltgvZMI9y73GOlBqoOFiXlot87V.jpg" group-title="All Series",Black Mirror S02 E01
+http://1tv41.icu:8080/series/19133176/19133176/190323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Mirror S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iS34hF0GMqwry7gJtDoH29r5YVv.jpg" group-title="All Series",Black Mirror S02 E02
+http://1tv41.icu:8080/series/19133176/19133176/190324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Mirror S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSEwesgbIQWoMucQdc55c4qaAQM.jpg" group-title="All Series",Black Mirror S02 E03
+http://1tv41.icu:8080/series/19133176/19133176/190325.mkv
